@@ -1,11 +1,11 @@
-# Transport in 
-Plans, data and other documents on transport in 
+# Transport in Syria
+Plans, data and other documents on transport in Syria
 
 <b> 
 Community list of publications, data and other useful information on transport in  :bike::bus::train:🌳🚊
 </b><br><br>
 
-Have something to add or change? Contact: Armin.Wagner@giz.de
+Have something to add or change? Contact: armin.wagner@giz.de
 
 ------------------------------
 
@@ -110,5 +110,6 @@ For more information about our work, please refer to:
 -	MobiliseYourCity: https://www.mobiliseyourcity.net/
 		
 Compiled by / Contact:
+- Louisa Wind:louisacharlotte.wind@giz.de
 - Armin Wagner: armin.wagner@giz.de
-- (as of February 2025)
+(as of February 2025)
