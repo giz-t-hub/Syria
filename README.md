@@ -28,7 +28,7 @@ Have something to add or change? Contact: armin.wagner@giz.de
 ### National Vision, Strategy, Masterplan <a name="national-vision-strategy-masterplan"></a> 
 
 Transport:
--The proposed national transport action plan for Syria supports the transport section of the 11th Five-Year Plan by addressing funding sources and allocation. It evaluates traditional public sector funding, explores additional revenue from a fuel surcharge, and proposes a method to prioritize investment projects. The plan aims to ensure financial sustainability while achieving transport sector objectives. https://documents1.worldbank.org/curated/en/968951468117285197/pdf/687460ESW0P11100Draft0April07002011.pdf
+- The proposed national transport action plan for Syria supports the transport section of the 11th Five-Year Plan by addressing funding sources and allocation. It evaluates traditional public sector funding, explores additional revenue from a fuel surcharge, and proposes a method to prioritize investment projects. The plan aims to ensure financial sustainability while achieving transport sector objectives. https://documents1.worldbank.org/curated/en/968951468117285197/pdf/687460ESW0P11100Draft0April07002011.pdf
 
 General:
 - The Strategic Plan 2030 for Syria is a 10-year roadmap for post-war sustainable growth, focusing on economic, social, and environmental development. It prioritizes political reform, infrastructure modernization, economic diversification, and social inclusion.  
@@ -53,7 +53,7 @@ Mitigation:
 - Syria's First Nationally Determined Contribution (NDC), 2018 https://climate-laws.org/documents/syrian-arab-republic-first-ndc_c98b?id=syrian-arab-republic-first-ndc_e25e
 - The First National Communication (NC1) of the Syrian Arab Republic is a report submitted to the United Nations Framework Convention on Climate Change (UNFCCC). It outlines Syria’s efforts to address climate change, including greenhouse gas inventories, mitigation and adaptation measures, vulnerabilities to climate change, and policy recommendations. The document provides insights into Syria’s environmental challenges, energy consumption patterns, and potential strategies for integrating sustainability and climate resilience into national development plans. https://climate-laws.org/documents/syrian-arab-republic-national-communication-nc-nc-1_b27c?l=syria&id=syrian-arab-republic-national-communication-nc-nc-1_ff4f
     
-- Adaptation
+Adaptation
 
 Energy policy:
 - The Syrian Master Plan for Renewable Energy 2010 (no link publicly available) aimed to develop a strategic framework for integrating renewable energy sources into the country's energy mix. It was designed to reduce reliance on fossil fuels, enhance energy security, and promote sustainability. The plan focused on expanding solar, wind, and biomass energy while improving energy efficiency across sectors. Implemented by Syria’s National Energy Research Center in collaboration with GIZ, it outlined key targets, policy recommendations, and investment priorities. The plan was later updated into the Master Plan for Energy Efficiency and Renewable Energies to align with evolving energy needs and international best practices.
